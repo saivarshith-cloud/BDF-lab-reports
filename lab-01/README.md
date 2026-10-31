@@ -10,7 +10,7 @@
 
 ## Live Link
 
-**Deployment URL:** https://backend-development-fundamentals-lab-01-gfii.onrender.com
+**Deployment URL:**https://bdf-lab-reports-zn7y.onrender.com
 
 *(Hosted on Render's free tier. The first request after a period of inactivity can take up to a minute while the server wakes up.)*
 
